@@ -1,2 +1,2 @@
-# wanshop
-New repository for WanShop project
+# Development
+Development branch for WanShop project
