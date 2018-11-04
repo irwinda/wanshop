@@ -1,2 +1,2 @@
-# Development
-Development branch for WanShop project
+# Dev_Winda
+A branch for personal development by Winda
